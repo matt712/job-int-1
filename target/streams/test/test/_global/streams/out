@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CafeTest, org.scalatest.tools.Framework$$anon$1@625cbed6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CafeTest, org.scalatest.tools.Framework$$anon$1@1525fbbe, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mCafeTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mCafe.bill[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return correct prices for cola[0m[0m
@@ -16,7 +16,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return correct price for order with multiple items with hot service charge and 2 sandwiches[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mCafe.bill[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return price with £20 max service charge for hot service charge[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 120 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 990 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m

@@ -3,8 +3,8 @@ class Cafe {
   def bill(order: Array[String]): BigDecimal = {
     var totalPrice: BigDecimal = 0
     var serviceChargeType: String = "No Charge"
-    for(i <- 0 until order.length) {
-      order(i) match {
+    for(item <- order) {
+      item match {
         case "Cola" => totalPrice = totalPrice + 0.5
         case "Coffee" => totalPrice = totalPrice + 1
         case "Cheese Sandwich" => {
